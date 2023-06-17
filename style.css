@@ -1,0 +1,53 @@
+/*
+Author: Dharmil Chhadva
+ID: C0884179
+Date: 16th June, 2023
+*/
+
+#header {
+  margin: auto;
+  padding: 1rem 2rem;
+  background-color: #5ec576;
+  color: #f9f9f9;
+  width: 700px;
+}
+
+#content {
+  width: 700px;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.input-div {
+  padding: 1rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.input-div label {
+  font-size: 20px;
+  background-color: #5ec576;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  padding: 5px 10px;
+}
+.input-div input {
+  font-size: 18px;
+  border: 1px solid;
+  padding: 5px 10px;
+}
+
+button {
+  margin: auto;
+  text-align: center;
+  display: flex;
+  background: #5ec576;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  font-size: 25px;
+  margin-top: 10px;
+  cursor: pointer;
+}
